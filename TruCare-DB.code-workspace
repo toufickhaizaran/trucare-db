@@ -1,0 +1,18 @@
+{
+  "folders": [{ "path": "." }],
+  "settings": {
+    "sqltools.connections": [
+      {
+        "name": "Local MariaDB (trucare_medical_new)",
+        "driver": "MySQL",
+        "server": "localhost",
+        "port": 3306,
+        "username": "root",
+        "password": "",
+        "database": "trucare_madical_new"
+      }
+    ],
+    "sqltools.useNodeRuntime": true,
+    "sqltools.showResultsInEditor": true
+  }
+}
