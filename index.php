@@ -1,5 +1,8 @@
 <?php /* index.php — TruCare homepage with image mapping */ ?>
 <?php
+
+$config = require __DIR__ . '/config/config.php';
+
 include __DIR__ . '/partials/header.php';
 ?>
 <!doctype html>
